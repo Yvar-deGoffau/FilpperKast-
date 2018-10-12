@@ -1,0 +1,7 @@
+c:\users\yvar de goffau\source\repos\FlipperKastSharp\FlipperKastSharp\obj\Debug\FlipperKastSharp.csprojAssemblyReference.cache
+c:\users\yvar de goffau\source\repos\FlipperKastSharp\FlipperKastSharp\obj\Debug\FlipperKastSharp.csproj.CoreCompileInputs.cache
+c:\users\yvar de goffau\source\repos\FlipperKastSharp\FlipperKastSharp\bin\Debug\FlipperKastSharp.exe.config
+c:\users\yvar de goffau\source\repos\FlipperKastSharp\FlipperKastSharp\bin\Debug\FlipperKastSharp.exe
+c:\users\yvar de goffau\source\repos\FlipperKastSharp\FlipperKastSharp\bin\Debug\FlipperKastSharp.pdb
+c:\users\yvar de goffau\source\repos\FlipperKastSharp\FlipperKastSharp\obj\Debug\FlipperKastSharp.exe
+c:\users\yvar de goffau\source\repos\FlipperKastSharp\FlipperKastSharp\obj\Debug\FlipperKastSharp.pdb
